@@ -7,7 +7,7 @@ go to
 cd 6COSC019W
 chmod a+x updatesetoolkit.sh
 run the script by typing:
-sudo ./updatesetookit.sh
+ ./updatesetookit.sh
 
 
 
